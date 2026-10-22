@@ -4,7 +4,7 @@
 import PackageDescription
 
 let version = "0.7.0"
-let checksum = "0000000000000000000000000000000000000000000000000000000000000000"
+let checksum = "f4398abc249d56f4eee1315737a5024663ea118956081111aa5ffeaa68d3a59d"
 
 let klippaIdentityVerificationXCFramework = Target.binaryTarget(
     name: "KlippaIdentityVerification",

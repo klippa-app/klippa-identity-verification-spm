@@ -39,7 +39,7 @@ or you can add the following dependency to your Package.swift:
 
 `.package(url: "https://github.com/klippa-app/klippa-identity-verification-spm", from: "0.7.0")`
 
-The SDK supports iOS 13.0 and later. For the Info.plist keys, the NFC entitlement and how to start a session, see the [SDK documentation](https://custom-ocr.klippa.com/sdk/ios/identity_verification).
+The SDK supports iOS 15.0 and later. For the Info.plist keys, the NFC entitlement and how to start a session, see the [SDK documentation](https://custom-ocr.klippa.com/sdk/ios/identity_verification).
 
 ## Flutter
 

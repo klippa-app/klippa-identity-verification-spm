@@ -15,7 +15,7 @@ let klippaIdentityVerificationXCFramework = Target.binaryTarget(
 let package = Package(
     name: "KlippaIdentityVerification",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v15)
     ],
     products: [
         .library(
